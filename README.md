@@ -1,2 +1,3 @@
-"# Identification-of-Hand-Movement-Stages-for-Brain-Computer-Interface-Using-Deep-Learning" 
+
 # Identification-of-Hand-Movement-Stages-for-Brain-Computer-Interface-Using-Deep-Learning
+In this thesis a deep learning based control algorithm for a fully functional, real-time prosthetic limb is presented to provide motor rehabilitation and restoration. The proposed scheme detects six di?erent events related to hand movement during a task of grasping and lifting an object, using electroencephalography (EEG). The six events represent six di?erent stages of a sequence of hand movements (hand starts moving, starts lifting the object, etc.). This method mainly aims at increasing the classi?cation performanceofmotorimageryelectroencephalographybyincorporatingConvolutional Neural Network based learning approaches on BCI applications.
